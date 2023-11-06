@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="slike/logo2.jpg">
+    <title>Salon nameštaja</title>
+</head>
+<body>
+  <div class = "slika3">
+  <div class = "nav">
+    <ul>
+      <li><a href = "Početna.html">Početna</a></li>
+      <li><a href = "Onama.html">O nama</a></li>
+      <li><a href = "Nameštaj.html">Nameštaj</a></li>
+      <li><a href = "#">Kontakt</a></li>
+     </ul>
+    </div>
+<div class = "naslov3" ><h1>KONTAKTIRAJTE NAS</h1></div>
+<div class = "podaci"><p>Gmail:<a href="gmail:furnitureshowroom@gmail.com">furnitureshowroom@gmail.com</a> </p>
+    <p>Broj telefona1: <a href = "tel:063/4590221">063/4590221</a></p>
+    <p>Broja telefona2: <a href = "tel:065/2388909">065/2388909</a></p>
+    <p id="adresa" onmouseover="promBoja('stil')" onmouseout="promBoja('stil2')">Adresa: Pupinova 3a</p>
+    <p>Instagram: furniture_shoeroom</p>
+
+</div>
+<div class = "kontaktforma" >
+    <div class = "mininaslov"><h1>Ukoliko ste naručili nešto online, molimo Vas da ostavite svoje podatke u obrascu ispod. <br>Hvala na poverenju!</h1></div>
+    <div class = "forma">
+      <form name="forma">
+         <input type = "text" class = "polje" id="name" name="ime" placeholder="Unesite ime" required><br>
+         <input type = "text" class = "polje" id="name" name="prezime" placeholder="Unesite prezime"required><br>
+         <input type = "adress" class = "polje"  placeholder ="Unesite adresu" required><br>
+         <input type = "email" class = "polje" id = "email"  name="email"  placeholder = "Unesite email" required> <br>         
+         <label for="ocena">Ocenite kvalitet nameštaja:</label>
+         <select name="ocena" id="ocena">
+            <option value=""></option>
+            <option value="1">1</option>
+            <option value="2">1</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="4">5</option>
+          </select><br>
+        
+         <input type = "button" onclick="podaci()" value = "prosledi" class = "dugme" >
+    </form>
+    </div>
+</div>
+  </div>
+ <marquee id="poruka" direction="left"  onmouseover="boja(4)" onmouseout="boja(5)">HVALA NA POSETI</marquee>
+  <script src="script.js"> </script>
+</body>
+</html>
+
+ 
