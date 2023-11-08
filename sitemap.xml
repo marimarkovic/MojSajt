@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/issues</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/pulls</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/projects?query=is%3Aopen</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/security</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/commit/1b614c45d272b799d881c01055ad30970a51cc78</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/releases</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/compare</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/runs/6797223497</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/commit/f18a87cafb883013ea98da1aefd910c0fd0ade4a</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels?sort=name-asc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels?sort=name-desc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels?sort=count-desc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels?sort=count-asc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/bug</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/documentation</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/duplicate</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/enhancement</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/good%20first%20issue</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/help%20wanted</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/invalid</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/question</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/labels/wontfix</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/runs/6797223497/job/18478909251</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/runs/6797223497/job/18478925295</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/runs/6797223497/job/18478925481</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/actions/runs/6797223497/usage</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/marimarkovic/MojSajt/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-08T10:57:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
