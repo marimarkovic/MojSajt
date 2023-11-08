@@ -1,4 +1,4 @@
-"use strict"
+'use strict'
 let tabela = document.getElementById("tabela");  
 let niz = ["Ugaona garnitura","Kreveti","Stolovi","Stolice","Sofa","Fotelja"];
 function dodajTabelu (x){ // f-ja sa ulaznim param, for petlju, dogadjaj, dinamcko generisanje html-a
