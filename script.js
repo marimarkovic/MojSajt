@@ -1,7 +1,7 @@
 'use strict'
-let tabela = document.getElementById("tabela");  
+var tabela = document.getElementById("tabela");  
 let niz = ["Ugaona garnitura","Kreveti","Stolovi","Stolice","Sofa","Fotelja"];
-function dodajTabelu (x){ // f-ja sa ulaznim param, for petlju, dogadjaj, dinamcko generisanje html-a
+function dodajTabelu (x){ 
 let ispis = "";
 if (x==1){
     ispis+=`<table border = "1px solid grey"><caption>Najprodavaniji proizvodi</caption>`;
