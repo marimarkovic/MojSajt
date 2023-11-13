@@ -1,4 +1,4 @@
-
+'use strict'
 let tabela = document.getElementById("tabela");  
 let niz = ["Ugaona garnitura","Kreveti","Stolovi","Stolice","Sofa","Fotelja"];
 function dodajTabelu (x){ 
